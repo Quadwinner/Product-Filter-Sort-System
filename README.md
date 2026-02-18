@@ -1,4 +1,3 @@
-# Product-Filter-Sort-System
 Requirements:
 • Display 8 products from JavaScript array.
 • Filter by category dropdown.
